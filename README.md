@@ -57,8 +57,8 @@ The app follows **Clean Architecture** principles to ensure separation of concer
 
 2.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/task_flow.git
-    cd task_flow
+    git clone https://github.com/venkat9507/Task-Flow.git
+    cd Task-Flow
     ```
 
 3.  **Install Dependencies**:
