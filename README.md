@@ -21,7 +21,7 @@ A beautiful, intuitive personal to-do list app with offline-first architecture, 
 ## 🛠 Tech Stack
 
 -   **Framework**: Flutter (Dart)
--   **Flutter Version**: SDK `^3.9.2` (Latest Stable recommended)
+-   **Flutter Version**: `3.35.7`
 
 ### Architecture
 The app follows **Clean Architecture** principles to ensure separation of concerns, scalability, and testability:
